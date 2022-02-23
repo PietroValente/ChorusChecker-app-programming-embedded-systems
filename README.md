@@ -9,6 +9,7 @@
 <p align="center">
     <a href="https://github.com/pietrovalente/ChorusChecker-app-programming-embedded-systems/blob/main/images/Home.png"><img src="https://github.com/pietrovalente/ChorusChecker-app-programming-embedded-systems/blob/main/images/Home.png" alt="" width="200px"></a>
     &nbsp;
+    &nbsp;
         <a href="https://github.com/pietrovalente/ChorusChecker-app-programming-embedded-systems/blob/main/images/Notification.png"><img src="https://github.com/pietrovalente/ChorusChecker-app-programming-embedded-systems/blob/main/images/Notification.png" alt="" width="200px"></a>
         <a href="https://github.com/pietrovalente/ChorusChecker-app-programming-embedded-systems/blob/main/images/Bubble.png"><img src="https://github.com/pietrovalente/ChorusChecker-app-programming-embedded-systems/blob/main/images/Bubble.png" alt="" width="200px"></a>
 </p>
