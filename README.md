@@ -18,7 +18,7 @@ ChorusChecker is an app that aims to be used as a language lab software; we woul
 
 A user can select a song from those in the list, at this point he can play it and go back to listening the parts he prefers. While a bot will contact the user via a notification (which can become a bubble), this will ask the user 5 questions (or sentences to complete) related to the lyrics of the selected song.
 
-If the user answers the first question correctly, the bot will move on to the next one, otherwise it will continue to ask for the first question. When all the questions have been answered correctly, the song will be checked in the list.
+If the user answers the first question correctly, the bot will move to the next one, otherwise it will continue to ask for the first question. When all the questions have been answered correctly, the song will be checked in the list.
 
 &nbsp;
 <p align="center">
