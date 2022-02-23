@@ -32,3 +32,9 @@ If the user answers the first question correctly, the bot will move to the next 
     &nbsp;
         <a href="https://github.com/pietrovalente/ChorusChecker-app-programming-embedded-systems/blob/main/images/Bubble.png"><img src="https://github.com/pietrovalente/ChorusChecker-app-programming-embedded-systems/blob/main/images/Bubble.png" alt="" width="200px"></a>
 </p>
+
+## Team
+
+* Pietro Valente
+* Andrea Seghetto
+* Zebin Duan
